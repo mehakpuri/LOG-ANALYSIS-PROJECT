@@ -2,7 +2,7 @@
 ## by Mehak Puri
 This is the third project for the Udacity Full Stack 1 Nanodegree. In this project, a large database with over a million rows is explored by building complex SQL queries. The project builds an internal reporting tool for a newpaper site to discover what kind of articles the site's readers like by interacting on a live database.
 
-## Technologies used
+## Technologies used In this project
 1. PostgreSQL
 2. Python3
 3. Linux-based virtual machine (VM) Vagrant
@@ -18,7 +18,7 @@ Reporting tool should answer the following questions:
 * The code presents its output in clearly formatted plain text.
 
 ## System setup and how to view this project
-This project makes use of Udacity's Linux-based virtual machine (VM) configuration which includes all of the necessary software to run the application.
+
 1. Download Vagrant and install.
 2. Download Virtual Box and install. 
 3. Clone this repository to a directory of your choice.
